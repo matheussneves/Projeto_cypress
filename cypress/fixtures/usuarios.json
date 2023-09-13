@@ -1,0 +1,39 @@
+[
+    {
+      "email": "peter.quill@gmail.com.br",
+      "fullName": "Peter Jason Quill",
+      "userName": "senhor_das_estrelas",
+      "password": "hibrido"
+    },
+    {
+      "email": "gamora@gmail.com.br",
+      "fullName": "Gamora Zen Whoberi Ben Titan",
+      "userName": "gamora",
+      "password": "zenwhoberi"
+    },
+    {
+      "email": "rocket.raccoon@gmail.com.br",
+      "fullName": "Rocket Raccoon",
+      "userName": "rocket",
+      "password": "mamifero"
+    },
+    {
+      "email": "groot@gmail.com.br",
+      "fullName": "Groot",
+      "userName": "groot",
+      "password": "colossusfloral"
+    }
+    ,
+    {
+      "email": "drax@gmail.com.br",
+      "fullName": "Drax",
+      "userName": "drax",
+      "password": "humanoreforcado"
+    },
+    {
+      "email": "youndu@gmail.com.br",
+      "fullName": "Yondu Udonta",
+      "userName": "youndu",
+      "password": "centauriano"
+    }
+  ]
